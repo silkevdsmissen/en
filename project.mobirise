@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Website",
-    "currentPage": "work.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 80,
     "versionPublish": "4.4.1",
@@ -16,7 +16,7 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "sansation_regular",
+        "display1Font": "Sansation-Regular",
         "display1Size": "2.5",
         "display2Font": "sansation_regular",
         "display2Size": "1.6",
