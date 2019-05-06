@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Website",
-    "currentPage": "index.html",
+    "currentPage": "text.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 80,
     "versionPublish": "4.4.1",
@@ -3910,7 +3910,7 @@
         }
       ]
     },
-    "page6.html": {
+    "text.html": {
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Text",
