@@ -3234,7 +3234,7 @@ body {
 }
 .cid-rbKatoaBV0 .mbr-text P {
   text-align: center;
-  color: #232323;
+  color: #b2010b;
 }
 .cid-r9cTiP0hS2 {
   padding-top: 15px;
@@ -4740,6 +4740,9 @@ body {
 .cid-rpGdQzkp9p .mbr-text,
 .cid-rpGdQzkp9p blockquote {
   color: #767676;
+}
+.cid-rpGdQzkp9p P {
+  color: #232323;
 }
 .cid-r9cTiP0hS2 {
   padding-top: 15px;
